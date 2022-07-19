@@ -1,0 +1,13 @@
+package jul.ba;
+
+public class first {
+
+	public static void main(String[] args) {
+		System.out.println("hello my first program");
+
+		String s= "hel  lo";
+		String[] split = s.split(" ");
+		System.out.println(split);
+		
+	}	
+}
